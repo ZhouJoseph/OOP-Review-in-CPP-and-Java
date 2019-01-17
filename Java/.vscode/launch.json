@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HW",
+            "request": "launch",
+            "mainClass": "HW"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HW01",
+            "request": "launch",
+            "mainClass": "HW01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hw01",
+            "request": "launch",
+            "mainClass": "hw01"
+        }
+    ]
+}
