@@ -40,7 +40,7 @@ public class hw01{
     }
 
     public hw01(String file_name) throws IOException{
-        file_path = dir + "/" + file_name;
+        file_path = dir + "/HW01/" + file_name;
         BufferedReader br = null;
         try{
             br = new BufferedReader(new FileReader(file_path));
